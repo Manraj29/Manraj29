@@ -1,4 +1,4 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">
 
 <!--
 **Manraj29/Manraj29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
@@ -11,3 +11,7 @@ I am Manraj Singh Virdi
 - ⚡ Fun fact: Programming is Cool!
 - 🎶 Interest: Musing & Coding
 
+Skills
+https://img.shields.io/badge/<Code>-<C++>-<brightyellow>
+https://img.shields.io/badge/<Code>-<C>-<brightyellow>
+https://img.shields.io/badge/<WEB>-<HTML>-<brightyellow>
