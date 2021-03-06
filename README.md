@@ -9,7 +9,7 @@ I am Manraj Singh Virdi
 - 🌱 I’m currently learning C++,Data Structures,Computer Graphics
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/manraj-singh-virdi-44aa451b2/detail/">Connect me</a> on LinkedIn or <a href = "mailto:virdimanajsingh9@gmail.com">Mail me</a>
 - ⚡ Fun fact: Programming is Cool!
-- 🎶 Interest: Musing & Coding
+- 🎶 Interest: Music & Coding
 
 <p>
  <img src="https://user-images.githubusercontent.com/61323049/110215282-de210200-7ece-11eb-865f-f769bbe6c1b7.jpg" width="350px" top="50px">
