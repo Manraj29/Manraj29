@@ -11,7 +11,5 @@ I am Manraj Singh Virdi
 - ⚡ Fun fact: Programming is Cool!
 - 🎶 Interest: Musing & Coding
 
-Skills
-https://img.shields.io/badge/<Code>-<C++>-<brightyellow>
-https://img.shields.io/badge/<Code>-<C>-<brightyellow>
-https://img.shields.io/badge/<WEB>-<HTML>-<brightyellow>
+<img src="pic_trulli.jpg" alt="Italian Trulli">
+
