@@ -28,6 +28,12 @@ I am Manraj Singh Virdi
 <img src="https://camo.githubusercontent.com/9d358b77d6aaa6aaf86015f2c8f2876a8c6161cb603c74b507c07463439be269/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176612d626c75653f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661">
  </div>
  <br>
+ <h2>Github Stats</h2>
+
+ 
+ ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Manraj29&show_icons=true&theme=dark)
+ 
+
  
  <h2>Projects🔥</h2>
  Below are some of my Projects to see more go the the Repositories😉.
