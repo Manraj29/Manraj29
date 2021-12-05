@@ -31,8 +31,10 @@ I am Manraj Singh Virdi
  <h2>Github Stats</h2>
 
  
- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Manraj29&show_icons=true&theme=dark)
+ ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Manraj29&show_icons=true&theme=dark)<br>
+  <h2>Top Languages</h2>
  
+ ![Top lang](https://github-readme-stats.vercel.app/api/top-langs/?username=Manraj29&theme=dark&layout=compact)
 
  
  <h2>Projects🔥</h2>
