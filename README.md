@@ -35,7 +35,8 @@ I am Manraj Singh Virdi
   <h2>Top Languages</h2>
  
  ![Top lang](https://github-readme-stats.vercel.app/api/top-langs/?username=Manraj29&theme=dark&layout=compact)
-
+   <h2>Profile views</h2>
+ ![GHPVC](https://komarev.com/ghpvc/?username=Manraj29&label=Profile%20views)
  
  <h2>Projects🔥</h2>
  Below are some of my Projects to see more go the the Repositories😉.
