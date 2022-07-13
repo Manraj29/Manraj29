@@ -1,10 +1,11 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">
+### Hi there 👋🖐
+<!-- <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> -->
 
 <!--
 **Manraj29/Manraj29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 I am Manraj Singh Virdi
-
+ ~ A programmer/ person always in problems/ Fun person 
 - 🔭 I’m constantly working on my Programming Skills.
 - 🌱 I’m currently learning How to enjoy your days.
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/manraj-singh-virdi-44aa451b2/detail/">Connect with me</a> on LinkedIn or <a href = "mailto:virdimanajsingh9@gmail.com">Mail me</a>
