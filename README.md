@@ -30,28 +30,28 @@ I am Manraj Singh Virdi
 <table border="0">
  <tr>
   <td>HTML <img src="https://play-lh.googleusercontent.com/85WnuKkqDY4gf6tndeL4_Ng5vgRk7PTfmpI4vHMIosyq6XQ7ZGDXNtYG2s0b09kJMw" height=20></td> 
-  <td>CSS <img src="" height=20></td> 
-  <td>JavaScript <img src="" height=20></td>
+  <td>CSS <img src="https://play-lh.googleusercontent.com/RTAZb9E639F4JBcuBRTPEk9_92I-kaKgBMw4LFxTGhdCQeqWukXh74rTngbQpBVGxqo" height=20></td> 
+  <td>JavaScript <img src="https://www.javascripttutorial.net/wp-content/uploads/2021/04/JavaScript-Tutorial.svg" height=20></td>
  </tr>
  <tr>
-  <td>C/C++ Programming <img src="https://play-lh.googleusercontent.com/85WnuKkqDY4gf6tndeL4_Ng5vgRk7PTfmpI4vHMIosyq6XQ7ZGDXNtYG2s0b09kJMw" height=20></td> 
-  <td>PHP <img src="" height=20></td> 
-  <td>Java <img src="" height=20></td>
+  <td>C/C++ Programming <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSctf2rwVh3_iEZv6OzhWQyuyjT06gtssuXbg&usqp=CAU" height=20></td> 
+  <td>PHP <img src="https://laravelnews.imgix.net/images/phplogo.jpg?ixlib=php-3.3.1" height=20></td> 
+  <td>Java <img src="https://cdn.vox-cdn.com/thumbor/_AobZZDt_RVStktVR7mUZpBkovc=/0x0:640x427/1200x800/filters:focal(0x0:640x427)/cdn.vox-cdn.com/assets/1087137/java_logo_640.jpg" height=20></td>
  </tr>
  <tr>
-  <td>Node.js <img src="https://play-lh.googleusercontent.com/85WnuKkqDY4gf6tndeL4_Ng5vgRk7PTfmpI4vHMIosyq6XQ7ZGDXNtYG2s0b09kJMw" height=20></td> 
-  <td>Android <img src="" height=20></td> 
-  <td>XML <img src="" height=20></td>
+  <td>Node.js <img src="https://www.startechup.com/wp-content/uploads/January-11-2021-Nodejs-What-it-is-used-for-and-when-where-to-use-it-for-your-enterprise-app-development.jpg" height=20></td> 
+  <td>Android <img src="https://data1.ibtimes.co.in/en/full/561247/android-m.jpg" height=20></td> 
+  <td>XML <img src="http://www.tbee.org/wp-content/uploads/2021/01/xml-file.png" height=20></td>
  </tr>
  <tr>
-  <td>MySQL <img src="https://play-lh.googleusercontent.com/85WnuKkqDY4gf6tndeL4_Ng5vgRk7PTfmpI4vHMIosyq6XQ7ZGDXNtYG2s0b09kJMw" height=20></td> 
-  <td>Python <img src="" height=20></td> 
-  <td>MS Office <img src="" height=20></td>
+  <td>MySQL <img src="https://guiltyparties.com/wp-content/uploads/2020/06/MySQL-Logo.png" height=20></td> 
+  <td>Python <img src="https://qph.fs.quoracdn.net/main-qimg-28cadbd02699c25a88e5c78d73c7babc" height=20></td> 
+  <td>MS Office <img src="https://shop.anaptis.com/wp-content/uploads/2018/08/microsoft-office-365.png" height=20></td>
  </tr>
  <tr>
-  <td>Team member <img src="https://play-lh.googleusercontent.com/85WnuKkqDY4gf6tndeL4_Ng5vgRk7PTfmpI4vHMIosyq6XQ7ZGDXNtYG2s0b09kJMw" height=20></td> 
-  <td>Leadership <img src="" height=20></td> 
-  <td>Problem Solving <img src="" height=20></td>
+  <td>Team member</td> 
+  <td>Leadership</td> 
+  <td>Problem Solving</td>
  </tr>
 </table>
 
@@ -69,7 +69,7 @@ I am Manraj Singh Virdi
 ![Profile Views](https://komarev.com/ghpvc/?username=Manraj29&label=Profile%20views&color=0e75b6&style=flat) 
 
  <h2>Projects🔥</h2>
- Below are some of my Projects to see more go the the Repositories😉.
- <br>Thank you✌!
+ Below are some of my Projects to see more go to the Repositories. I hope you like the projects.
+ <br>Peace ✌.
 
 
