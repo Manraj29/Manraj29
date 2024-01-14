@@ -47,10 +47,10 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=490 src="https://github-readme-streak-stats-salesp07.vercel.app?user=Manraj29&theme=transparent&hide_border=true&border_radius=4.6&mode=weekly"  alt="readme stats"/>
-  <img width=490 src="https://github-readme-stats.vercel.app/api?username=Manraj29&show_icons=true&bg_color=00000000&hide_border=true" alt="readme stats" />
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app?user=Manraj29&theme=transparent&hide_border=true&border_radius=4.6&mode=weekly"  alt="readme stats"/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=Manraj29&show_icons=true&bg_color=00000000&hide_border=true" alt="readme stats" />
   <br/>
-  <img width=420 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manraj29&layout=donut&theme=transparent&hide_border=true" alt="top langs" />
+  <img width=320 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manraj29&layout=donut&theme=transparent&hide_border=true" alt="top langs" />
 </div>
 
 <br/><br/>
