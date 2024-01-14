@@ -1,75 +1,65 @@
-### Hi there 👋🖐
-<!-- <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> -->
+<img align="right" src = 'https://komarev.com/ghpvc/?username=Manraj29&label=Profile%20views&color=0e75b6&style=flat' />
 
-<!--
-**Manraj29/Manraj29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Manraj+Singh+Virdi!;" />
+</h1>
+<h3 align="center"> 🤝A Student & A Developer 🤌</h3>
 
-I am Manraj Singh Virdi
- ~ A programmer/ person always in problems/ Fun person 
-- 🔭 I’m constantly working on my Programming Skills.
-- 🌱 I’m currently learning How to enjoy your days.
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/manraj-singh-virdi-44aa451b2/detail/">Connect with me</a> on LinkedIn or <a href = "mailto:virdimanajsingh9@gmail.com">Mail me</a>
-- ⚡ Fun fact: Programming is Cool!
-- 🎶 Interest: Music & Coding
+<br/>
 
-<!-- <p>
- <img src="https://user-images.githubusercontent.com/61323049/110215282-de210200-7ece-11eb-865f-f769bbe6c1b7.jpg" width="350px" top="50px">
-</p>
- -->
+<div align="center">
 
-<h2>Skills💪</h2>
-<div>
-<!-- <img src="https://camo.githubusercontent.com/528c747b822ad5b408176ad29cc08224eb4ce7cc578e8033967f64223f594f8e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f432d696e666f726d6174696f6e616c3f7374796c653d666f722d7468652d6261646765266c6f676f3d63">
- <img src="https://camo.githubusercontent.com/38ea02fe75ed5fb85db38f0fe9e7475482eb48e1e1c3c16d0eaaff1d943b8a6a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f432b2b2d626c75653f7374796c653d666f722d7468652d6261646765266c6f676f3d63253242253242">
-<img src="https://camo.githubusercontent.com/e80a222eef8c7abb81f9c0a4521efd756c2bc562af41e5ffce2004be1eb12482/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c352d77686974653f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35">
-<img src="https://camo.githubusercontent.com/5039762ad01157a36915df71595284f6f0bba77c42787035b62afc06ecf45676/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f435353332d626c75653f7374796c653d666f722d7468652d6261646765266c6f676f3d63737333">
-<img src="https://camo.githubusercontent.com/07e696d73e35ca9f9c0d73d6d1d5378b3a43230f90dd82e7dc7065fe30df5fb8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f44424d532d636f726e73696c6b3f7374796c653d666f722d7468652d6261646765266c6f676f3d7468652d6d6f7669652d6461746162617365266c6f676f436f6c6f723d79656c6c6f77">
-<img src="https://camo.githubusercontent.com/e9069299d120da1f7b62c0456cc049795af4245963078c8c8e47745d2f82744b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d532532304f66666963652d6f72616e67653f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6963726f736f66742d6f6666696365">
-<img src="https://camo.githubusercontent.com/c13463b4cfa225b48dfdd4a2997562ca247bb2da81b8fe506447ae1b95a1a6e4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f56422e4e45542d707572706c653f7374796c653d666f722d7468652d6261646765266c6f676f3d2e6e6574">
-<img src="https://camo.githubusercontent.com/9d358b77d6aaa6aaf86015f2c8f2876a8c6161cb603c74b507c07463439be269/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176612d626c75653f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661"> -->
-<table border="0">
- <tr>
-  <td>HTML <img src="https://play-lh.googleusercontent.com/85WnuKkqDY4gf6tndeL4_Ng5vgRk7PTfmpI4vHMIosyq6XQ7ZGDXNtYG2s0b09kJMw" height=20></td> 
-  <td>CSS <img src="https://play-lh.googleusercontent.com/RTAZb9E639F4JBcuBRTPEk9_92I-kaKgBMw4LFxTGhdCQeqWukXh74rTngbQpBVGxqo" height=20></td> 
-  <td>JavaScript <img src="https://www.javascripttutorial.net/wp-content/uploads/2021/04/JavaScript-Tutorial.svg" height=20></td>
- </tr>
- <tr>
-  <td>C/C++ Programming <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSctf2rwVh3_iEZv6OzhWQyuyjT06gtssuXbg&usqp=CAU" height=20></td> 
-  <td>PHP <img src="https://laravelnews.imgix.net/images/phplogo.jpg?ixlib=php-3.3.1" height=20></td> 
-  <td>Java <img src="https://cdn.vox-cdn.com/thumbor/_AobZZDt_RVStktVR7mUZpBkovc=/0x0:640x427/1200x800/filters:focal(0x0:640x427)/cdn.vox-cdn.com/assets/1087137/java_logo_640.jpg" height=20></td>
- </tr>
- <tr>
-  <td>Node.js <img src="https://www.startechup.com/wp-content/uploads/January-11-2021-Nodejs-What-it-is-used-for-and-when-where-to-use-it-for-your-enterprise-app-development.jpg" height=20></td> 
-  <td>Android <img src="https://data1.ibtimes.co.in/en/full/561247/android-m.jpg" height=20></td> 
-  <td>XML <img src="http://www.tbee.org/wp-content/uploads/2021/01/xml-file.png" height=20></td>
- </tr>
- <tr>
-  <td>MySQL <img src="https://guiltyparties.com/wp-content/uploads/2020/06/MySQL-Logo.png" height=20></td> 
-  <td>Python <img src="https://qph.fs.quoracdn.net/main-qimg-28cadbd02699c25a88e5c78d73c7babc" height=20></td> 
-  <td>MS Office <img src="https://shop.anaptis.com/wp-content/uploads/2018/08/microsoft-office-365.png" height=20></td>
- </tr>
- <tr>
-  <td>Team member</td> 
-  <td>Leadership</td> 
-  <td>Problem Solving</td>
- </tr>
-</table>
+ 🔭 I’m currently working on my **Programming Skills**
+ 
+ 🌱 I’m currently learning **React, Game Theory & AI**
+
+💬 Ask me about **Programming, Food, Messi or anything**
+
+⚡ Fun fact **I used to laugh on Ted, Now I am like him without the happy ending lol.**
+
+🎧 Interests **Music & Sports**
+
+<!--📬 We can connect [here](https://www.linkedin.com/in/manrajsinghvirdi/) -->
 
  </div>
- <br>
- <h2>Github Stats</h2>
 
- 
- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Manraj29&show_icons=true&theme=dark)<br>
-  <h2>Top Languages</h2>
- 
- ![Top lang](https://github-readme-stats.vercel.app/api/top-langs/?username=Manraj29&theme=dark&layout=compact)
-   <h2>Profile views</h2>
-   
-![Profile Views](https://komarev.com/ghpvc/?username=Manraj29&label=Profile%20views&color=0e75b6&style=flat) 
+ <div align="center"> 
+  <a href="mailto:virdimanajsingh9@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  
+  <a href="https://www.linkedin.com/in/manrajsinghvirdi" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+<!--   <a href="https://salesp07.github.io" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options 
+  </a> -->
+</div>
 
- <h2>Projects🔥</h2>
- Below are some of my Projects to see more go to the Repositories. I hope you like the projects.
- <br>Peace ✌.
+ <hr/>
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,html,css,javascript,bootstrap,php,nodejs,python,express,dotnet,c,cpp,java,mysql,postgres,vscode,github,gmail,git,discord&perline=5" /><br>
+</div>
+<hr/>
 
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=490 src="https://github-readme-streak-stats-salesp07.vercel.app?user=Manraj29&theme=transparent&hide_border=true&border_radius=4.6&mode=weekly"  alt="readme stats"/>
+  <img width=490 src="https://github-readme-stats.vercel.app/api?username=Manraj29&show_icons=true&bg_color=00000000&hide_border=true" alt="readme stats" />
+  <br/>
+  <img width=420 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manraj29&layout=donut&theme=transparent&hide_border=true" alt="top langs" />
+</div>
 
+<br/><br/>
+<hr/>
+
+<br/>
+
+<div align="center">
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+the+View🙋🏻‍♂️!;+Take+Care🤝" />
+</h1>
+</div>
