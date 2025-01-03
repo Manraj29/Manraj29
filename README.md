@@ -11,7 +11,7 @@
 
  🔭 I’m currently working on my **Programming Skills**
  
- 🌱 I’m currently learning **React, Game Theory & AI**
+🌱 I’m currently learning **Node.js, Flutter & AI**
 
 💬 Ask me about **Programming, Food, Messi or anything**
 
