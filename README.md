@@ -9,9 +9,9 @@
 
 <div align="center">
 
- 🔭 I’m currently working on my **Programming Skills**
+ 🔭 I’m working on my **skills**
  
-🌱 I’m currently learning **Node.js, Flutter & AI**
+🌱 I’m currently learning **Flutter & AI**
 
 💬 Ask me about **Programming, Food, Messi or anything**
 
@@ -60,6 +60,6 @@
 
 <div align="center">
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+the+View🙋🏻‍♂️!;+Take+Care🤝" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks🙋🏻‍♂️!;+Take+Care🤝" />
 </h1>
 </div>
