@@ -40,7 +40,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,html,css,javascript,bootstrap,tailwind,vite,php,nodejs,flutter,python,express,dotnet,c,cpp,java,mysql,postgres,vscode,github,gmail,git,discord,notion&perline=6" /><br>
+    <img src="https://skillicons.dev/icons?i=react,html,css,javascript,bootstrap,tailwind,vite,php,nodejs,flutter,python,express,dotnet,c,cpp,java,mysql,postgres,firebase,fastapi,vscode,github,postman,gmail,git,androidstudio,aws,figma,discord,notion&perline=6" /><br>
 </div>
 <hr/>
 
